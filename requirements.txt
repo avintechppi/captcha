@@ -1,0 +1,8 @@
+requests
+pillow
+ultralytics
+undetected-chromedriver
+onnx
+onnxruntime
+speechrecognition
+fake_useragent
